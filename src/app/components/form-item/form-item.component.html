@@ -1,0 +1,39 @@
+<div class="p-grid">
+  <div class="p-field p-col-12 p-md-3">
+    <input
+      type="text"
+      id="inputtext"
+      [(ngModel)]="key"
+      pInputText
+      placeholder="Chave"
+      (ngModelChange)="handleValue($event)"
+    />
+  </div>
+
+  <div class="p-field p-col-12 p-md-6">
+    <input
+      type="text"
+      [disabled]="key === '' || selectedOption?.code !== ''"
+      id="inputtext"
+      [value]="value"
+      [(ngModel)]="value"
+      (ngModelChange)="handleValue($event)"
+      pInputText
+      [ngClass]="{ 'p-invalid': key === '' }"
+      placeholder="{{ key === '' ? 'Digite uma Chave!' : 'Valor' }}"
+    />
+    <!-- <small id="inputtext" class="p-invalid" *ngIf="key === ''"
+      >Digite uma Chave!</small
+    > -->
+  </div>
+
+  <div class="p-field p-col-12 p-md-3">
+    <p-dropdown
+      [options]="options"
+      [(ngModel)]="selectedOption"
+      placeholder="Tipo"
+      optionLabel="name"
+      (ngModelChange)="handleValue($event)"
+    ></p-dropdown>
+  </div>
+</div>

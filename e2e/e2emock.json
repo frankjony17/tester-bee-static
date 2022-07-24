@@ -1,0 +1,572 @@
+{
+    "clientes": {
+        "status": "OK",
+        "messages": [],
+        "data": {
+            "lista": [
+                {
+                    "dataNascimentoConst": "01.01.2005",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 706126957,
+                    "nomeCliente": "MARIA",
+                    "cpfcnpj": 70050
+                },
+                {
+                    "dataNascimentoConst": "18.06.1957",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690492753,
+                    "nomeCliente": "MARIA  DAS GRACAS MOURA LOPES",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "12.10.1962",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690491208,
+                    "nomeCliente": "MARIA  DO SOCORRO SOBRAL MATOS",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "17.07.1959",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690492551,
+                    "nomeCliente": "MARIA  FERREIRA DOS SANTOS",
+                    "cpfcnpj": 2624411100
+                },
+                {
+                    "dataNascimentoConst": "11.03.1964",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690491929,
+                    "nomeCliente": "MARIA  LINA OCERIA DE BRITO SILVA",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "17.02.1964",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690491223,
+                    "nomeCliente": "MARIA  LUCINEIDE VERAS LOUREIRO",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "28.07.1994",
+                    "tipoPessoa": 2,
+                    "codigoMCI": 690632319,
+                    "nomeCliente": "MARIA & JOSE COMERCIO DE ROUPAS LTDA - ME",
+                    "cpfcnpj": 125616000199
+                },
+                {
+                    "dataNascimentoConst": "19.06.2009",
+                    "tipoPessoa": 2,
+                    "codigoMCI": 504283951,
+                    "nomeCliente": "MARIA & MARIA COMERCIO E LOCACAO DE ROUPAS LTDA",
+                    "cpfcnpj": 10906540000192
+                },
+                {
+                    "dataNascimentoConst": "30.11.1976",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 987682182,
+                    "nomeCliente": "MARIA A A COIMBRA",
+                    "cpfcnpj": 17106052
+                },
+                {
+                    "dataNascimentoConst": "15.06.2000",
+                    "tipoPessoa": 2,
+                    "codigoMCI": 705267940,
+                    "nomeCliente": "MARIA A B DE OLIVEIRA & CIA LTDA ME",
+                    "cpfcnpj": 3883252000102
+                },
+                {
+                    "dataNascimentoConst": "10.05.1958",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 413852180,
+                    "nomeCliente": "MARIA A B FERNANDES",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "24.09.1982",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 704224070,
+                    "nomeCliente": "MARIA A C CANSI",
+                    "cpfcnpj": 17151945
+                },
+                {
+                    "dataNascimentoConst": "19.10.1997",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 705288271,
+                    "nomeCliente": "MARIA A C VASCONCELOS SEGUNDA",
+                    "cpfcnpj": 31450164668
+                },
+                {
+                    "dataNascimentoConst": "10.07.2019",
+                    "tipoPessoa": 2,
+                    "codigoMCI": 450201844,
+                    "nomeCliente": "MARIA A CAMARGO FRANCO",
+                    "cpfcnpj": 34243336000105
+                },
+                {
+                    "dataNascimentoConst": "08.11.1942",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 101169989,
+                    "nomeCliente": "MARIA A CERQUEIRA",
+                    "cpfcnpj": 30598737634
+                },
+                {
+                    "dataNascimentoConst": "19.09.1971",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904572969,
+                    "nomeCliente": "MARIA A D LOPES",
+                    "cpfcnpj": 2276456779
+                },
+                {
+                    "dataNascimentoConst": "18.04.1968",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690509530,
+                    "nomeCliente": "MARIA A D MORES",
+                    "cpfcnpj": 1511590920
+                },
+                {
+                    "dataNascimentoConst": "22.03.1961",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904574828,
+                    "nomeCliente": "MARIA A D SANTOS",
+                    "cpfcnpj": 2330847467
+                },
+                {
+                    "dataNascimentoConst": "22.05.1927",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 421310118,
+                    "nomeCliente": "MARIA A DAS C G DE OLIVEIRA",
+                    "cpfcnpj": 2843536472
+                },
+                {
+                    "dataNascimentoConst": "09.02.1969",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904913433,
+                    "nomeCliente": "MARIA A DE L SANTOS",
+                    "cpfcnpj": 27340490582
+                },
+                {
+                    "dataNascimentoConst": "01.12.1958",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 413797685,
+                    "nomeCliente": "MARIA A DE M OLIVEIRA",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "29.03.1931",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 415493096,
+                    "nomeCliente": "MARIA A DE MELO SOARES",
+                    "cpfcnpj": 22627200453
+                },
+                {
+                    "dataNascimentoConst": "09.03.1933",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 492047391,
+                    "nomeCliente": "MARIA A DE OLIVEIRA MARTINS",
+                    "cpfcnpj": 2115260880
+                },
+                {
+                    "dataNascimentoConst": "14.02.1957",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 905142851,
+                    "nomeCliente": "MARIA A DE SALES",
+                    "cpfcnpj": 50431684120
+                },
+                {
+                    "dataNascimentoConst": "30.03.1919",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 492049175,
+                    "nomeCliente": "MARIA A DOS REIS BRANCO",
+                    "cpfcnpj": 50591797020
+                },
+                {
+                    "dataNascimentoConst": "18.05.1951",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 903937527,
+                    "nomeCliente": "MARIA A DOS S DA NATIVIDADE",
+                    "cpfcnpj": 8491020578
+                },
+                {
+                    "dataNascimentoConst": "17.08.1934",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 903948705,
+                    "nomeCliente": "MARIA A DOS SANTOS",
+                    "cpfcnpj": 16744810553
+                },
+                {
+                    "dataNascimentoConst": "01.09.1962",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 905066013,
+                    "nomeCliente": "MARIA A DOS SANTOS",
+                    "cpfcnpj": 42490669320
+                },
+                {
+                    "dataNascimentoConst": "20.05.1933",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 203444944,
+                    "nomeCliente": "MARIA A DOS SANTOS PERFEITO",
+                    "cpfcnpj": 10476187885
+                },
+                {
+                    "dataNascimentoConst": "07.09.1952",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 493200991,
+                    "nomeCliente": "MARIA A ERZINGER DE POLI",
+                    "cpfcnpj": 22355952949
+                },
+                {
+                    "dataNascimentoConst": "25.06.1952",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904873108,
+                    "nomeCliente": "MARIA A ESTEVAO",
+                    "cpfcnpj": 94941599853
+                },
+                {
+                    "dataNascimentoConst": "10.10.1986",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 908324923,
+                    "nomeCliente": "MARIA A F CHAVES",
+                    "cpfcnpj": 209201649
+                },
+                {
+                    "dataNascimentoConst": "18.11.1941",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 908252177,
+                    "nomeCliente": "MARIA A F CONCEICAO",
+                    "cpfcnpj": 2942628650
+                },
+                {
+                    "dataNascimentoConst": "22.06.1969",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904545467,
+                    "nomeCliente": "MARIA A F SOUSA",
+                    "cpfcnpj": 1156103754
+                },
+                {
+                    "dataNascimentoConst": "01.10.1949",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904945727,
+                    "nomeCliente": "MARIA A FERREIRA",
+                    "cpfcnpj": 91829500678
+                },
+                {
+                    "dataNascimentoConst": "07.09.1951",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 903937911,
+                    "nomeCliente": "MARIA A FUCHS MIRANDA SANTANA",
+                    "cpfcnpj": 7485298534
+                },
+                {
+                    "dataNascimentoConst": "02.07.1954",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 415965544,
+                    "nomeCliente": "MARIA A G B DE CASTRO",
+                    "cpfcnpj": 40827283504
+                },
+                {
+                    "dataNascimentoConst": "30.12.1980",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 413049031,
+                    "nomeCliente": "MARIA A G C F T NATA",
+                    "cpfcnpj": 17085349468
+                },
+                {
+                    "dataNascimentoConst": "27.01.1930",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 110269383,
+                    "nomeCliente": "MARIA A G CIRINO",
+                    "cpfcnpj": 91765455634
+                },
+                {
+                    "dataNascimentoConst": "27.01.1930",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 908255363,
+                    "nomeCliente": "MARIA A G CIRINO",
+                    "cpfcnpj": 91765455634
+                },
+                {
+                    "dataNascimentoConst": "26.04.1973",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690570868,
+                    "nomeCliente": "MARIA A G FRANCISCO",
+                    "cpfcnpj": 69361029991
+                },
+                {
+                    "dataNascimentoConst": "07.04.1960",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 908423757,
+                    "nomeCliente": "MARIA A G H FARIA",
+                    "cpfcnpj": 50670840653
+                },
+                {
+                    "dataNascimentoConst": "02.12.1957",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904911315,
+                    "nomeCliente": "MARIA A G INOCENCIO",
+                    "cpfcnpj": 27159809653
+                },
+                {
+                    "dataNascimentoConst": "27.07.1997",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 204605139,
+                    "nomeCliente": "MARIA A G SERRAO",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "04.07.1959",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 905020942,
+                    "nomeCliente": "MARIA A GON ALVES",
+                    "cpfcnpj": 38015374120
+                },
+                {
+                    "dataNascimentoConst": "06.12.1933",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 492047450,
+                    "nomeCliente": "MARIA A GREGHI MARCHETTI",
+                    "cpfcnpj": 97509639891
+                },
+                {
+                    "dataNascimentoConst": "22.01.1971",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690492486,
+                    "nomeCliente": "MARIA A GUIDONES DA SILVA",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "20.04.1965",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 905287946,
+                    "nomeCliente": "MARIA A INACIA",
+                    "cpfcnpj": 68231199691
+                },
+                {
+                    "dataNascimentoConst": "15.08.1956",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904821263,
+                    "nomeCliente": "MARIA A J PIMENTEL",
+                    "cpfcnpj": 19539614287
+                },
+                {
+                    "dataNascimentoConst": "01.01.0001",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 201554367,
+                    "nomeCliente": "MARIA A J SAMPAIO GOES",
+                    "cpfcnpj": 229951880
+                },
+                {
+                    "dataNascimentoConst": "01.11.1951",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904822475,
+                    "nomeCliente": "MARIA A JESUS DIAS",
+                    "cpfcnpj": 19628579134
+                },
+                {
+                    "dataNascimentoConst": "08.11.1952",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904519898,
+                    "nomeCliente": "MARIA A L C ORIENTE",
+                    "cpfcnpj": 135248876
+                },
+                {
+                    "dataNascimentoConst": "14.08.1929",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 908236140,
+                    "nomeCliente": "MARIA A L COSTA VAL",
+                    "cpfcnpj": 7333889815
+                },
+                {
+                    "dataNascimentoConst": "01.05.1947",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 903939631,
+                    "nomeCliente": "MARIA A L DE OLIVEIRA",
+                    "cpfcnpj": 7258313591
+                },
+                {
+                    "dataNascimentoConst": "05.12.1947",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 908343294,
+                    "nomeCliente": "MARIA A L TOLEDO",
+                    "cpfcnpj": 14006081634
+                },
+                {
+                    "dataNascimentoConst": "01.01.0001",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 414087785,
+                    "nomeCliente": "MARIA A LIMA CASTILHO",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "15.09.1938",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 200038934,
+                    "nomeCliente": "MARIA A LOPES SPINARDI",
+                    "cpfcnpj": 83577629800
+                },
+                {
+                    "dataNascimentoConst": "07.10.1962",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 110270426,
+                    "nomeCliente": "MARIA A M DA COSTA",
+                    "cpfcnpj": 36678180178
+                },
+                {
+                    "dataNascimentoConst": "05.05.1930",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 181039,
+                    "nomeCliente": "MARIA A M DALLA COSTA",
+                    "cpfcnpj": 51265869987
+                },
+                {
+                    "dataNascimentoConst": "19.12.1952",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 426309659,
+                    "nomeCliente": "MARIA A M DO NASCIMENTO",
+                    "cpfcnpj": 4282685441
+                },
+                {
+                    "dataNascimentoConst": "02.11.1947",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904745866,
+                    "nomeCliente": "MARIA A M OLIVEIRA",
+                    "cpfcnpj": 13453963504
+                },
+                {
+                    "dataNascimentoConst": "08.03.1907",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 601886923,
+                    "nomeCliente": "MARIA A MACIEL",
+                    "cpfcnpj": 47739851604
+                },
+                {
+                    "dataNascimentoConst": "19.12.1965",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 905016208,
+                    "nomeCliente": "MARIA A MARIANO",
+                    "cpfcnpj": 37608991534
+                },
+                {
+                    "dataNascimentoConst": "01.01.0001",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 105960952,
+                    "nomeCliente": "MARIA A MEDEIROS GALETI",
+                    "cpfcnpj": 7768131886
+                },
+                {
+                    "dataNascimentoConst": "26.09.1931",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 600584848,
+                    "nomeCliente": "MARIA A MELILLO LIMA",
+                    "cpfcnpj": 401749649
+                },
+                {
+                    "dataNascimentoConst": "28.06.1963",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 905001115,
+                    "nomeCliente": "MARIA A N DE SOUZA",
+                    "cpfcnpj": 36033340515
+                },
+                {
+                    "dataNascimentoConst": "01.07.1967",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 603385437,
+                    "nomeCliente": "MARIA A NERE MARTINS",
+                    "cpfcnpj": 63596695600
+                },
+                {
+                    "dataNascimentoConst": "01.01.0001",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 417857175,
+                    "nomeCliente": "MARIA A O DA S NASCIMENTO",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "01.01.0001",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 418949507,
+                    "nomeCliente": "MARIA A O DA S NASCIMENTO",
+                    "cpfcnpj": 0
+                },
+                {
+                    "dataNascimentoConst": "07.05.1952",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 908355690,
+                    "nomeCliente": "MARIA A P CHAVES",
+                    "cpfcnpj": 88690563504
+                },
+                {
+                    "dataNascimentoConst": "01.07.1944",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 201554365,
+                    "nomeCliente": "MARIA A P F B CARDOSO JUL E OU",
+                    "cpfcnpj": 5158222800
+                },
+                {
+                    "dataNascimentoConst": "29.04.1985",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 110184214,
+                    "nomeCliente": "MARIA A PEREIRA",
+                    "cpfcnpj": 43915027634
+                },
+                {
+                    "dataNascimentoConst": "29.04.1985",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 110185183,
+                    "nomeCliente": "MARIA A PEREIRA",
+                    "cpfcnpj": 43915027634
+                },
+                {
+                    "dataNascimentoConst": "20.01.1979",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 690547902,
+                    "nomeCliente": "MARIA A POLINI ROSA",
+                    "cpfcnpj": 2608682995
+                },
+                {
+                    "dataNascimentoConst": "20.09.1959",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904591830,
+                    "nomeCliente": "MARIA A PROCOPIO",
+                    "cpfcnpj": 2790374651
+                },
+                {
+                    "dataNascimentoConst": "01.01.1098",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 110270429,
+                    "nomeCliente": "MARIA A R BORGES",
+                    "cpfcnpj": 60555750191
+                },
+                {
+                    "dataNascimentoConst": "14.05.1932",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 908088663,
+                    "nomeCliente": "MARIA A R CALABRIA",
+                    "cpfcnpj": 18945600
+                },
+                {
+                    "dataNascimentoConst": "25.12.1959",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 905036313,
+                    "nomeCliente": "MARIA A R S SILVA",
+                    "cpfcnpj": 39453855391
+                },
+                {
+                    "dataNascimentoConst": "08.10.1954",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 904803029,
+                    "nomeCliente": "MARIA A RIBAS",
+                    "cpfcnpj": 17878357668
+                },
+                {
+                    "dataNascimentoConst": "06.07.1924",
+                    "tipoPessoa": 1,
+                    "codigoMCI": 492047778,
+                    "nomeCliente": "MARIA A RIBEIRO DE OLIVEIRA",
+                    "cpfcnpj": 86000209800
+                }
+            ],
+            "completa": false
+        },
+        "statusCode": 200
+    }
+}

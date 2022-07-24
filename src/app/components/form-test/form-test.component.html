@@ -1,0 +1,127 @@
+<p-toast></p-toast>
+
+<p-card header="Tester-Bee">
+  <div class="p-d-flex p-ai-center p-mb-5">
+    <div style="width: 100%">
+      <div class="p-inputgroup">
+        <span class="p-inputgroup-addon p-p-0"
+          ><p-dropdown
+            [options]="type"
+            [(ngModel)]="selectedType"
+            placeholder="Método"
+            optionLabel="name"
+            styleClass="p-button-success"
+          ></p-dropdown
+        ></span>
+        <input type="text" pInputText [(ngModel)]="host" placeholder="Host" />
+
+        <button
+          pButton
+          pRipple
+          type="button"
+          icon="pi pi-play"
+          title="Add Column"
+          (click)="onSubmit()"
+        ></button>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <h4 class="p-mb-5">Payload</h4>
+    <div class="p-fluid p-grid p-ai-center p-jc-center p-mt-2">
+      <div class="p-col-12">
+        <form class="needs-validation" novalidate>
+          <div *ngFor="let col of columns; let i = index">
+            <div class="p-grid">
+              <div class="p-col p-mt-2">
+                <fks-form-item
+                  [item]="col"
+                  [addItem]="addItem"
+                  [index]="i"
+                ></fks-form-item>
+
+                <!-- <json-editor
+                [options]="editorOptions"
+                [data]="data"
+                (change)="getData($event)"
+              ></json-editor> -->
+              </div>
+              <div
+                class="p-col-fixed p-mt-0"
+                style="width: 50px; text-align: right"
+              >
+                <button
+                  class="p-button-danger"
+                  pButton
+                  pRipple
+                  type="button"
+                  icon="pi pi-minus"
+                  title="Remove Column"
+                  (click)="removeColumn(col)"
+                  [disabled]="columns.length === 0"
+                ></button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <button
+      pButton
+      pRipple
+      type="button"
+      icon="pi pi-plus"
+      title="Add Column"
+      (click)="addColumn()"
+      [disabled]="columns.length === 20"
+    ></button>
+  </div>
+
+  <!-- <fks-form-editor></fks-form-editor> -->
+
+  <div class="p-grid p-ai-center vertical-container p-mt-4">
+    <div class="p-field p-col-12 p-md-3">
+      <div class="p-field">
+        <label for="username1">Número de requests</label>
+        <p-inputNumber
+          placeholder="Número de requests"
+          mode="decimal"
+          [showButtons]="true"
+          inputId="minmax-buttons"
+          [min]="1"
+          [max]="1000"
+          [(ngModel)]="numberRequests"
+        >
+        </p-inputNumber>
+      </div>
+    </div>
+
+    <div class="p-field p-col-12 p-md-3">
+      <div class="p-field">
+        <label for="username2">Tempo entre requests</label>
+        <p-inputNumber
+          placeholder="Tempo entre requests"
+          mode="decimal"
+          [showButtons]="true"
+          inputId="minmax-buttons"
+          [min]="1"
+          [max]="99"
+          [(ngModel)]="timeBetweenRequests"
+        >
+        </p-inputNumber>
+      </div>
+    </div>
+    <div class="p-col-12 p-md-3">
+      <p-toggleButton
+        onLabel="Gravar resposta"
+        offLabel="Não gravar resposta"
+        onIcon="pi pi-check"
+        offIcon="pi pi-times"
+        [style]="{ width: '15em' }"
+        [(ngModel)]="recordResponse"
+      ></p-toggleButton>
+    </div>
+  </div>
+</p-card>

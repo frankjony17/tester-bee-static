@@ -1,0 +1,10 @@
+<p-panel>
+  <p-header> Respostas por tempo (ms) </p-header>
+
+  <p-chart
+    height="400px"
+    type="line"
+    [data]="chartService.second"
+    (onDataSelect)="selectData($event)"
+  ></p-chart>
+</p-panel>

@@ -1,0 +1,22 @@
+<div class="p-grid p-ai-stretch vertical-container">
+  <div class="p-col-12 p-lg-6">
+    <div class="box box-stretched">
+      <h4>Payload</h4>
+      <json-editor
+        [options]="editorOptions"
+        [data]="data"
+        (change)="getData($event)"
+      ></json-editor>
+    </div>
+  </div>
+  <div class="p-col-12 p-lg-6">
+    <div class="box box-stretched">
+      <h4>Valores únicos</h4>
+      <json-editor
+        [options]="editorOptions"
+        [data]="data"
+        (change)="getData($event)"
+      ></json-editor>
+    </div>
+  </div>
+</div>

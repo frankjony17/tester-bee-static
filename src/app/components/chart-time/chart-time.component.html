@@ -1,0 +1,12 @@
+<p-panel>
+  <p-header> Respostas por tempo (ms) </p-header>
+
+  <!-- <p-toast [style]="{ marginTop: '80px' }"></p-toast> -->
+
+  <p-chart
+    height="400px"
+    type="line"
+    [data]="chartService.time"
+    (onDataSelect)="selectData($event)"
+  ></p-chart>
+</p-panel>
